@@ -59,7 +59,7 @@ class Body extends Component {
     calculateCircleArea = () => {
       let areas = []
       data.map(shape => {
-        let area  = 3.1415926535898 * shape.x3 * shape.x3
+        let area  = 3.1415926535898 * shape.x2 * shape.x2
         areas.push(Math.abs(area))
       })
       let largestArea = Math.max.apply(null, areas)
