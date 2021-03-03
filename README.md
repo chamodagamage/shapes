@@ -2,6 +2,8 @@ I have used react to complte the project.
 
 I have converted the csv file to JSON file to read the data in react js 
 
+When I convert csv file, I used "Shapes, x1, y1 ,x2, y2, x3, y3" as header of the csv file
+
 I have created  a react class component called body to dispaly buttons and I used same calss to do my calculations 
 
 the body.jsx file is in the src folder
