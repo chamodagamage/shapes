@@ -12,7 +12,7 @@ I used A = (x1y2 + x2y3 + x3y1 – x1y3 – x2y1 – x3y2)/2 to calcu
 
 I used A=πr2 to calculate the arae of the circle.
 
-whaen caluculate area first I used an array to store all the araes and the filterd the largest area using Math.max.apply()
+when I calculate the area, first I used an array to store all the areas and then filterd the largest area using Math.max.apply()
 
 I used different functions to calculate each task.
 
